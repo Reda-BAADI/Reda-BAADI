@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reda-BAADI
 - 👀 I’m interested in cybaesecurity
-- 🌱 I’m currently learning brogramation
+- 🌱 I’m currently learning programation
 
 <!---
 Reda-BAADI/Reda-BAADI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
